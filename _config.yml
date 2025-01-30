@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
-title: Meu Site
-description: Este é um site simples feito com GitHub Pages e Jekyll.
+title: Viviane Franco
+description: "IA na Educação"
+show_downloads: false
+
+# Links para redes sociais
+github: vivianefranco
+linkedin: Viviane Franco
+email: "vivianefrancodasilva@gmail.com"
+
+# Configuração para habilitar posts
+include: ["_posts"]
+
