@@ -11,3 +11,9 @@ email: "vivianefrancodasilva@gmail.com"
 # Configuração para habilitar posts
 include: ["_posts"]
 
+# Estilos personalizados
+sass:
+  style: compressed
+  load_paths:
+    - assets/css
+
