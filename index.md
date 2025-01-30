@@ -20,5 +20,20 @@ Sou formada em Letras e especialista em Liderança e Inovação pela FGV. Atuo n
 🐙 [GitHub](https://vivianefranco.github.io/meu-site/)  
 📧 Email: **vivianefrancodasilva@gmail.com**  
 
+## 📬 Conecte-se comigo  
+<div class="social-icons">
+    <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+        <img src="images/linkedin.png" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/seuusuario" target="_blank">
+        <img src="images/github.png" alt="GitHub">
+    </a>
+    <a href="mailto:seuemail@email.com">
+        <img src="images/email.png" alt="Email">
+    </a>
+</div>
+
+</div>
+
 ---
 *Site criado com [GitHub Pages](https://pages.github.com/) e Jekyll.*
